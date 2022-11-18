@@ -20,7 +20,7 @@
         <TextBox x:Name="inputBox" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled" Height="226" 
                  Background="White" RenderTransformOrigin="1.033,1.501" HorizontalAlignment="Left" 
                  VerticalAlignment="Center" Canvas.Top="98.31" Canvas.Left="10" Width="320" Text="Please enter a text" 
-                 MouseDoubleClick="ClearTxtBox" FontSize="14" TextChanged="inputBox_TextChanged" TextWrapping="Wrap">
+                 MouseDoubleClick="ClearTxtBox" FontSize="14" TextWrapping="Wrap">
         </TextBox>
         <TextBox x:Name="txtKey" Background="White" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" 
                  Canvas.Top="356.113" Width="50" Canvas.Left="10" Text="Key" MouseDoubleClick="ClearKeyBox"></TextBox>
