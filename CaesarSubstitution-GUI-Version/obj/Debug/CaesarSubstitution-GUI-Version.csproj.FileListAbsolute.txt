@@ -1,0 +1,14 @@
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\bin\Debug\CaesarSubstitution-GUI-Version.exe
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\bin\Debug\CaesarSubstitution-GUI-Version.pdb
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.csproj.AssemblyReference.cache
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\MainWindow.g.cs
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\App.g.cs
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version_MarkupCompile.cache
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version_MarkupCompile.lref
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\MainWindow.baml
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.g.resources
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution_GUI_Version.Properties.Resources.resources
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.csproj.GenerateResource.cache
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.csproj.CoreCompileInputs.cache
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.exe
+E:\Stammverzeichnisse\Dokumente\Informatik\C#\Projekte\CaesarSubstitution-GUI-Version\CaesarSubstitution-GUI-Version\obj\Debug\CaesarSubstitution-GUI-Version.pdb
