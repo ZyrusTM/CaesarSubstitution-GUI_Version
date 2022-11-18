@@ -16,7 +16,7 @@
         <Label Grid.Column="1" FontSize="16" HorizontalContentAlignment="Left" RenderTransformOrigin="1.358,3.512" 
                HorizontalAlignment="Center" VerticalAlignment="Top" Width="335" Height="40" Canvas.Top="68.393" Canvas.Left="465.055">Output:</Label>
         <Label Grid.Column="1" FontSize="14" HorizontalContentAlignment="Left" RenderTransformOrigin="1.358,3.512" 
-               HorizontalAlignment="Left" VerticalAlignment="Center" Width="43" Height="29" Canvas.Top="329.31" Canvas.Left="10">Key:</Label>
+               HorizontalAlignment="Center" VerticalAlignment="Center" Width="43" Height="30" Canvas.Top="336" Canvas.Left="10">Key:</Label>
 
         <CheckBox x:Name="encCheckbox" HorizontalAlignment="Left" Height="40" VerticalAlignment="Center" Canvas.Top="356.113" Width="92" Canvas.Left="88.144" 
                   FontSize="20" IsChecked="True" Checked="CheckboxEncrypt_Checked">Encrypt</CheckBox>
@@ -28,8 +28,8 @@
                  VerticalAlignment="Center" Canvas.Top="98.31" Canvas.Left="10" Width="320" Text="" 
                  FontSize="14" TextWrapping="Wrap">
         </TextBox>
-        <TextBox x:Name="txtKey" Background="White" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" 
-                 Canvas.Top="356.113" Width="50" Canvas.Left="10" Text=""></TextBox>
+        <TextBox x:Name="txtKey" Background="White" Height="23" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                 Canvas.Top="360" Width="50" Canvas.Left="10" Text=""></TextBox>
         <RichTextBox x:Name="outputBox" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled" IsReadOnly="True"
                      Background="White" Height="226" HorizontalAlignment="Left" VerticalAlignment="Center" Width="320" FontSize="14"
                      Canvas.Top="98.31" Canvas.Left="465.055">
