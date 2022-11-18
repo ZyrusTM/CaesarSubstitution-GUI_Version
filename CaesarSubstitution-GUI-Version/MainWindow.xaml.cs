@@ -11,7 +11,7 @@ namespace CaesarSubstitution_GUI_Version
         public MainWindow()
         {
             InitializeComponent();
-            _outputBoxContent = "Output:";
+            _outputBoxContent = "";
             InitializeRichTextBoxContent();
         }
 
@@ -31,16 +31,6 @@ namespace CaesarSubstitution_GUI_Version
                 encCheckbox.IsChecked = false;
                 startButton.Content = "Decrypt";
             }
-        }
-
-        private void ClearTxtBox(object sender, RoutedEventArgs e)
-        {
-            inputBox.Clear();
-        }
-
-        private void ClearKeyBox(object sender, RoutedEventArgs e)
-        {
-            txtKey.Clear();
         }
 
         private void InitializeRichTextBoxContent()
