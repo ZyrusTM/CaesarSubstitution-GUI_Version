@@ -7,9 +7,6 @@ using System.Windows;
 
 namespace CaesarSubstitution_GUI_Version
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
     public partial class App : Application
     {
     }
