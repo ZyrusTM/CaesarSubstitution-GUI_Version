@@ -166,7 +166,7 @@ namespace CaesarSubstitution_GUI_Version {
             this.startButton = ((System.Windows.Controls.Button)(target));
             
             #line 34 "..\..\MainWindow.xaml"
-            this.startButton.Click += new System.Windows.RoutedEventHandler(this.StartKrypto);
+            this.startButton.Click += new System.Windows.RoutedEventHandler(this.StartCrypto);
             
             #line default
             #line hidden

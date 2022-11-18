@@ -56,25 +56,9 @@ namespace CaesarSubstitution_GUI_Version
             outputBox.Document = flowDocument;
         }
 
-        private void StartKrypto(object sender, RoutedEventArgs e)
+        private void StartCrypto(object sender, RoutedEventArgs e)
         {
-            if (!int.TryParse(txtKey.Text, out _))
-            {
-                MessageBox.Show("Error: An invalid key was entered! A valid Key is a number between 1 and 25");
-                return;
-            }
-
-            if (inputBox.Text == null) 
-            {
-                MessageBox.Show("Error: No text was inserted into the Insert Box!");
-                return;
-            }
-
-            if (txtKey.Text == null)
-            {
-                MessageBox.Show("Error: No Key was entered");
-                return;
-            }
+            CheckInputs();
 
             if ((bool)encCheckbox.IsChecked)
             {
@@ -91,6 +75,27 @@ namespace CaesarSubstitution_GUI_Version
                 string decText = caesarSubstitution.Decrypt();
                 _outputBoxContent = decText;
                 InitializeRichTextBoxContent();
+            }
+        }
+
+        private void CheckInputs()
+        {
+            if (!int.TryParse(txtKey.Text, out _))
+            {
+                MessageBox.Show("Error: An invalid key was entered! A valid Key is a number between 1 and 25");
+                return;
+            }
+
+            if (inputBox.Text == null)
+            {
+                MessageBox.Show("Error: No text was inserted into the Insert Box!");
+                return;
+            }
+
+            if (txtKey.Text == null)
+            {
+                MessageBox.Show("Error: No Key was entered");
+                return;
             }
         }
     }

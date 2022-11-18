@@ -31,7 +31,7 @@
         </RichTextBox>
 
         <Button x:Name="startButton" Height="40" Width="141" HorizontalAlignment="Center" Canvas.Left="323.74" VerticalAlignment="Center" Canvas.Top="350" 
-                Content="Encrypt" Click="StartKrypto"></Button>
+                Content="Encrypt" Click="StartCrypto"></Button>
 
     </Canvas>
 
