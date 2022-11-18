@@ -28,8 +28,11 @@
                  VerticalAlignment="Center" Canvas.Top="98.31" Canvas.Left="10" Width="320" Text="" 
                  FontSize="14" TextWrapping="Wrap">
         </TextBox>
+            
         <TextBox x:Name="txtKey" Background="White" Height="23" HorizontalAlignment="Center" VerticalAlignment="Center" 
-                 Canvas.Top="360" Width="50" Canvas.Left="10" Text=""></TextBox>
+                 Canvas.Top="360" Width="50" Canvas.Left="10" Text="">
+        </TextBox>
+            
         <RichTextBox x:Name="outputBox" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled" IsReadOnly="True"
                      Background="White" Height="226" HorizontalAlignment="Left" VerticalAlignment="Center" Width="320" FontSize="14"
                      Canvas.Top="98.31" Canvas.Left="465.055">
@@ -40,5 +43,5 @@
                 Content="Encrypt" Click="StartCrypto"></Button>
 
     </Canvas>
-
+         
 </Window>
